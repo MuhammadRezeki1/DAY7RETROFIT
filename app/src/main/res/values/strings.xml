@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Restaurant Review</string> 121. <string name="title">Judul</string> 
+    <string name="description">Description</string> 123. <string name="review">Review</string> 
+    <string name="write_your_review_here">Write your rev iew here..</string> 
+    <string name="send">Kirim</string> 
+</resources>
